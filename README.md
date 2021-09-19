@@ -24,10 +24,10 @@
 📆 2019 - 2021\
 📍 **FOM Hochschule Hochschulzentrum** - Essen, Germany
 
-  - 📖 **Bachelors: Computer Engineering**\
+- 📖 **Bachelors: Computer Engineering**\
 📆 2015 - 2018\
 📍 **Sinhgad Institutes Smt. Kashibai Navale Collge of Engineering** - Pune, India
   
-    - 📖 **Diploma: Information Technology**\
+- 📖 **Diploma: Information Technology**\
 📆 2012 - 2015\
 📍 **Sinhgad Institutes Sou. Venutai Chavan Poytechnic** - Pune, India
