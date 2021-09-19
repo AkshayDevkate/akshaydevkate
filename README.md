@@ -26,8 +26,8 @@
 
 - 📖 **Bachelors: Computer Engineering**\
 📆 2015 - 2018\
-📍 **Sinhgad Institutes Smt. Kashibai Navale Collge of Engineering** - Pune, India
+📍 **Sinhgad Institutes Smt. Kashibai Navale College of Engineering** - Pune, India
   
 - 📖 **Diploma: Information Technology**\
 📆 2012 - 2015\
-📍 **Sinhgad Institutes Sou. Venutai Chavan Poytechnic** - Pune, India
+📍 **Sinhgad Institutes Sou. Venutai Chavan Polytechnic** - Pune, India
