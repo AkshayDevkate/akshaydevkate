@@ -14,14 +14,20 @@
   📫 How to reach me: <a href='mailto:devkatte.akshay98@gmail.com'>devkatte.akshay98@gmail.com</a>
 </p>
 
-<!--
-**AkshayDevkate/AkshayDevkate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+  <summary>📃 Resume</summary>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently looking for entry level opportunities
-- 🌱 I’m currently learning react, iOS
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
--->
+## Education
+
+- 📖 **Masters: Big Data and Business Analytics**\
+📆 2019 - 2021\
+📍 **FOM Hochschule Hochschulzentrum** - Essen, Germany
+
+  - 📖 **Bachelors: Computer Engineering**\
+📆 2015 - 2018\
+📍 **Sinhgad Institutes Smt. Kashibai Navale Collge of Engineering** - Pune, India
+  
+    - 📖 **Diploma: Information Technology**\
+📆 2012 - 2015\
+📍 **Sinhgad Institutes Sou. Venutai Chavan Poytechnic** - Pune, India
