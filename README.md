@@ -31,8 +31,8 @@
 - 📖 **Diploma: Information Technology**\
 📆 2012 - 2015\
 📍 **Sinhgad Institutes Sou. Venutai Chavan Polytechnic** - Pune, India
+ </details>
  
-  
 <details>
   <summary>📃 Medium Blogs</summary>
 
