@@ -20,7 +20,7 @@
 
 ## Education
 
-- 📖 ** Berliner Startup Stipendum**\
+- 📖 **Berliner Startup Stipendum**\
 📆 2019 - 2021\
 📍 **Technische Universität Berlin** - Berlin, Germany
 
