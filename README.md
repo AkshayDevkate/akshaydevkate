@@ -20,6 +20,10 @@
 
 ## Education
 
+- 📖 ** Berliner Startup Stipendum**\
+📆 2019 - 2021\
+📍 **Technische Universität Berlin** - Berlin, Germany
+
 - 📖 **Masters: Big Data and Business Analytics**\
 📆 2019 - 2021\
 📍 **FOM Hochschule Hochschulzentrum** - Essen, Germany
