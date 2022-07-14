@@ -21,7 +21,7 @@
 ## Education
 
 - 📖 **Berliner Startup Stipendum**\
-📆 2019 - 2021\
+📆 2022 \
 📍 **Technische Universität Berlin** - Berlin, Germany
 
 - 📖 **Masters: Big Data and Business Analytics**\
