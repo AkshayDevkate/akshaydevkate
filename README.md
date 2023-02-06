@@ -2,8 +2,8 @@
   Hi there 👋 I'm Akshay 👨‍💻
 </h1>
 
-<h3 align='center'>Academic staff member / PhD candidate at University of potsdam </h3>
-<h3 align='center'> Ex. Full Stack Developer at greenhomenow.de (supported by Technical University of berlin)</h3>
+<h3 align='center'>Academic staff member / PhD candidate at University of Potsdam </h3>
+<h3 align='center'> Ex. Full Stack Developer at greenhomenow.de (supported by Technical University of Berlin)</h3>
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/akshaydevkate/">
