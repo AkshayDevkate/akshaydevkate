@@ -3,6 +3,7 @@
 </h1>
 
 <h3>Academic staff member / PhD candidate at University of potsdam </h3>
+<h3> Ex. Full Stack Developer at greenhomenow.de (supported by Technical University of berlin)</h3>
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/akshaydevkate/">
