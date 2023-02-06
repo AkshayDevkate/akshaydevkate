@@ -2,7 +2,7 @@
   Hi there 👋 I'm Akshay 👨‍💻
 </h1>
 
-
+<>Academic staff member / PhD candidate at University of potsdam </>
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/akshaydevkate/">
