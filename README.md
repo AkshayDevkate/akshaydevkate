@@ -20,6 +20,10 @@
 
 
 ## Education
+  
+  - 📖 **PhD Candidate**\
+📆 2022 \
+📍 **University of Potsdam** - Potsdam, Germany
 
 - 📖 **Berliner Startup Stipendum**\
 📆 2022 \
