@@ -22,7 +22,7 @@
   
   - 📖 **PhD Candidate**\
 📆 2023 \
-📍 **University of Potsdam** - Potsdam, Germany
+📍 **Universität Potsdam** - Potsdam, Germany
 
 - 📖 **Berliner Startup Stipendum**\
 📆 2022 \
