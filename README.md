@@ -1,7 +1,7 @@
 <h1 align='center'>
   Hi there 👋 I'm Akshay 👨‍💻
-  PhD candidate - Research softweare engineering group @ University of Potsdam
 </h1>
+  PhD candidate - Research softweare engineering group @ University of Potsdam
 
 
 <p align='center'>
